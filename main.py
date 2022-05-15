@@ -1,9 +1,3 @@
-######################################################
-# Project: Project 1
-# Student Name:  <your name: Fashho, George>
-# UIN: <677265024>
-# URL: <https://replit.com/@GeorgeFashho/Project-1-George-Fashho#main.py>
-######################################################
 
 import turtle
 import math
